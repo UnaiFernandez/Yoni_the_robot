@@ -92,7 +92,7 @@ emango du. Kasu honetan, motorra aurrera joatea nahi badugu duty-aren seinalea i
 beharko dugu, eta atzera joatea nahiko bagenu beste batetik; motor bakoitzeko bi pin erabiliz.
 Hau jakinda, joystick-etik datozten balioak eraldatu beharko ditugu (aurreko ezaugarrian egiten den
 moduan), baina balioak bi zatitan banatuta: aurrera mugitzeko abiadura eta atzera mugitzeko abiadura.
-Horaingo honetan abiadura $v = | \frac{x-515}{20} |$ bezala kalkulatuko da eta beharrezkoa den pin-a aukeratuko da.
+Horaingo honetan abiadura **v = |(x-515)/20|** bezala kalkulatuko da eta beharrezkoa den pin-a aukeratuko da.
 
 ### Distantzia sentsorea
 
